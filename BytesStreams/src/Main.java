@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        byte[] test = {};
-        InputStream in = new ByteArrayInputStream(test);
+//        byte[] test = {};
+//        InputStream in = new ByteArrayInputStream(test);
         int a;
         int b;
         a = in.read();
